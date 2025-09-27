@@ -118,6 +118,7 @@ graph TD
 - **容錯處理**：超時檢測和異常狀態處理
 - **模組化設計**：功能分離，易於維護和擴展
 
+成果展示影片連結: https://youtu.be/PlUj6mogXSw?si=GpyJm9v2lpDmipM3
 ## 未來改進 | Future Improvements
 
 - [ ] 新增 Wi-Fi 連接功能，支援遠端監控
